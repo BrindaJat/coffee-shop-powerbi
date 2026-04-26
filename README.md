@@ -67,10 +67,10 @@ and how is performance trending over time?
 - Business storytelling — stakeholder persona, key findings, data quality notes
 
 ---
-![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/1_Cover.png)
-![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/2_Store%20Performance.png)
-![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/3_Product%20%26%20Time%20Analysis.png)
-![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/4_Product%20Detail.png)
+![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/1.Cover.png)
+![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/2.Store%20Performance.png)
+![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/3.Product%20%26%20Time%20Analysis.png)
+![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/4.Product%20Detail.png)
 ## 📁 File Structure
 ```
 coffee-shop-powerbi/
