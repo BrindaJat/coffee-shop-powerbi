@@ -70,5 +70,16 @@ and how is performance trending over time?
 ![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/1_Cover.png)
 ![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/2_Store%20Performance.png)
 ![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/3_Product%20%26%20Time%20Analysis.png)
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/4_Product%20Detail.png)
 ## 📁 File Structure
+```
+coffee-shop-powerbi/
+├── 📁 screenshots/
+│   ├── 1_Cover.png
+│   ├── 2_Store_Performance.png
+│   ├── 3_Product_and_Time_Analysis.png
+│   └── 4_Product_Detail.png
+├── Coffee_Shop_Dashboard.pbix
+├── Coffee_Shop_Executive_Summary.pdf
+└── README.md
+```
