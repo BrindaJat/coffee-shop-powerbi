@@ -68,7 +68,7 @@ and how is performance trending over time?
 
 ---
 ![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/1_Cover.png)
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/2_Store%20Performance.png)
 ![Dashboard Preview]()
 ![Dashboard Preview]()
 ## 📁 File Structure
