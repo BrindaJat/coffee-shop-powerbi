@@ -67,5 +67,8 @@ and how is performance trending over time?
 - Business storytelling — stakeholder persona, key findings, data quality notes
 
 ---
-![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/tree/main/screenshots)
+![Dashboard Preview](https://github.com/BrindaJat/coffee-shop-powerbi/blob/main/screenshots/1_Cover.png)
+![Dashboard Preview]()
+![Dashboard Preview]()
+![Dashboard Preview]()
 ## 📁 File Structure
